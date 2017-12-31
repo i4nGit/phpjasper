@@ -19,7 +19,7 @@ class JasperPHP
             $this->windows = true;
 
         if (!$resource_dir) {
-            $this->resource_directory = __DIR__ . '/../../../vendor/copam/jasperphp/src/JasperStarter/bin';
+            $this->resource_directory = __DIR__ . '/../../../vendor/i4n-git/jasperphp/src/JasperStarter/bin';
         } else {
             if (!file_exists($resource_dir))
                 throw new \Exception('Diretório não encontrado!', 1);
