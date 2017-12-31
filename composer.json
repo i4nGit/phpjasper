@@ -1,6 +1,7 @@
 {
     "name": "i4n-git/phpjasper",
     "description": "Create Reports in PHP/Laravel with JasperReports",
+    "version": "1.0.0",
     "license": "MIT",
     "keywords": [
         "reports",
