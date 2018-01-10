@@ -6,6 +6,7 @@
 
 Não esqueça de fornecer permissão 777 para o diretório **/vendor/i4n/phpjasper/src/JasperStarter/bin** e o arquivo binário **jasperstarter**
 
+Resolver problemas com fontes Windows
 apt-get install ttf-mscorefonts-installer
 
 ##Introdução
