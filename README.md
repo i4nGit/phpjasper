@@ -6,6 +6,8 @@
 
 Não esqueça de fornecer permissão 777 para o diretório **/vendor/i4n/phpjasper/src/JasperStarter/bin** e o arquivo binário **jasperstarter**
 
+apt-get install ttf-mscorefonts-installer
+
 ##Introdução
 Este pacote é a solução perfeita para compilar e processar relatórios Jasper (.jrxml & .jasper) com PHP puro ou através do Laravel Framework.
 
